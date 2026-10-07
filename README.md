@@ -1,7 +1,7 @@
 # Hi 👋, I'm Maikon Vinicius Franco
 
 🚀 **Software Engineer | React & Next.js**  
-🇧🇷 Brazil
+Brazilian
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
 I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
@@ -15,7 +15,7 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
     <img src="https://img.shields.io/badge/GitHub-maikonvfranco-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.instagram.com/maikonfranco.digital/">
-    <img src="https://img.shields.io/badge/Instagram-@maikonfranco.digital?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -35,16 +35,16 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 ### Frontend
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
 
 ### Backend
 
-![Firebase](https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png?hl=pt-+br)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
