@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi👋, I`m Maikon Vinicius Franco
+
+🚀 **Software Engineer
+React && Next.js**
+
+🇧🇷 Brazil
 
 <!--
 **maikonvfranco/maikonvfranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
